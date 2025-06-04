@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CharacterStorage
+comment1.params=i
+comment1.target=Hero\ getHero(int)
+comment2.params=
+comment2.target=java.util.List\ getHeroes()
+comment3.params=
+comment3.target=java.lang.String[]\ getAllHeroesNames()
+comment4.params=
+comment4.target=java.lang.String\ getAllHeroesNamesCombined()
+comment5.params=inHero
+comment5.target=void\ addHero(Hero)
+comment6.params=inHero
+comment6.target=boolean\ has(Hero)
+comment7.params=
+comment7.target=int\ size()
+numComments=8

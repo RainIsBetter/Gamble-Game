@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GambleCasino
+comment0.text=\n\ GambleCasino\ class\ handles\ gambling\ logic.\n\ \n\n\ -\ players\ can\ trade\ coins\ for\ a\ gamble\ attempt\ to\ get\ a\ character\n\ -\ Generates\ Heroes(characters)\ based\ on\ random\ numbers\ and\ thier\ rarity\n\ -\ Returns\ different\ WinningItem\ objects\ like\ Hero,\ UselessTrash,\ or\ ErrorItem,\ based\ on\ the\ outcome\ of\ the\ gamble.\n\ \n
+comment1.params=
+comment1.target=boolean\ gotNothing()
+comment2.params=num
+comment2.target=Hero\ generateHero(int)
+comment3.params=inWallet\ inCharacterStorage
+comment3.target=WinningItem\ gambleAttempt(Wallet,\ CharacterStorage)
+numComments=4

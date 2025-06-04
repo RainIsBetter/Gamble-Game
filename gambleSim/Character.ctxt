@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ The\ Character\ class\ is\ just\ a\ character\ in\ the\ game.\n\ It\ is\ as\ the\ base\ class\ for\ Hero\ and\ Monster\ subclasses\n
+comment1.params=inName\ inRarity\ inPower
+comment1.target=Character(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getRarity()
+comment4.params=
+comment4.target=int\ getPower()
+comment5.params=inHero
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

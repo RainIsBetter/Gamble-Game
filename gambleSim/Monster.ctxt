@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\n\ The\ Monster\ class\ is\ \ enemy\ characters,\ used\ in\ BattleDialog(to\ fight\ against).\n\ It\ defines\ three\ hardcoded\ monster\ instances\:\ SLIME,\ GOBLIN,\ and\ (shadow)BEAST\n
+comment1.params=inName\ inRarity\ inPower
+comment1.target=Monster(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

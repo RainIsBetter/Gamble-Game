@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wallet
+comment1.params=listener
+comment1.target=void\ addActionListener(java.awt.event.ActionListener)
+comment2.params=listener
+comment2.target=void\ removeActionListener(java.awt.event.ActionListener)
+comment3.params=
+comment3.target=void\ fireMoneyChangedEvent()
+comment4.params=
+comment4.target=int\ getCoins()
+comment5.params=change
+comment5.target=boolean\ changeCoins(int)
+numComments=6

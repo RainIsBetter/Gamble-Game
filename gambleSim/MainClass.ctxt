@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MainClass
+comment0.text=\n\ \ This\ is\ the\ entry\ point\ of\ the\ application.\n\ \n\ -\ Character\:\ Base\ class\ representing\ a\ generic\ character\ in\ the\ game.\n\ \ \ -\ Hero\:\ Subclass\ of\ Character,\ represents\ player-controlled\ characters\ with\ unique\ abilities.\n\ \ \ -\ Monster\:\ Subclass\ of\ Character,\ represents\ enemy\ characters\ encountered\ in\ battles.\n\ \n\ -\ WinningItem\:\ Interface\ defining\ items\ that\ can\ be\ won\ in\ the\ GambleCasino.\n\ \ \ -\ Implementations\ of\ WinningItem\ may\ include\ specific\ rewards\ like\ coins,\ power-ups,\ or\ equipment.\n\ \n\ -\ CharacterStorage\:\ Manages\ a\ collection\ of\ Hero\ objects,\ allowing\ for\ organization\ and\ retrieval.\n\ -\ Wallet\:\ Tracks\ the\ player's\ coins\ and\ notifies\ listeners\ of\ changes.\n\ -\ GambleCasino\:\ Handles\ gambling\ logic\ and\ generates\ WinningItem\ objects\ as\ rewards.\n\ -\ GambleWindow\:\ GUI\ for\ interacting\ with\ the\ game,\ including\ gambling\ and\ battling.\n\ \ \ -\ BattleDialog\:\ Sub-dialog\ for\ battles\ between\ Hero\ and\ Monster\ objects.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

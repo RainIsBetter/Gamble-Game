@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ErrorItem
+comment1.params=message
+comment1.target=ErrorItem(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

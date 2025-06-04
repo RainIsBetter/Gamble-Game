@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\n\ The\ Hero\ class\ is\ the\ characters\ that\ can\ be\ obtained\ by\ gambling\ in\ the\ game.\n\ Used\ as\ rewards\ in\ the\ GambleCasino\ and\ as\ selectable\ characters\ in\ battles.\n
+comment1.params=inName\ inRarity\ inPower
+comment1.target=Hero(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
